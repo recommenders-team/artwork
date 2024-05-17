@@ -7,8 +7,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="663.05463"
-   height="124.575"
+   width="707.09735"
+   height="80.532242"
    version="1.1"
    id="svg10"
    sodipodi:docname="join_recommenders_slack.svg"
@@ -48,8 +48,8 @@
      id="namedview12"
      showgrid="false"
      inkscape:zoom="1.6574803"
-     inkscape:cx="329.12883"
-     inkscape:cy="85.2479"
+     inkscape:cx="308.91743"
+     inkscape:cy="56.891605"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -60,16 +60,16 @@
      fit-margin-right="0"
      fit-margin-bottom="0" />
   <rect
-     style="opacity:0.997633;fill:#dc4964;fill-opacity:1;stroke-width:1.38447;stop-color:#000000"
+     style="opacity:0.997633;fill:#dc4964;fill-opacity:1;stroke-width:1.14952;stop-color:#000000"
      id="rect833"
-     width="663.05463"
-     height="124.575"
+     width="707.09735"
+     height="80.532242"
      x="0"
      y="0"
-     ry="9.9660006" />
+     ry="12.475834" />
   <g
      id="g839"
-     transform="matrix(0.68801788,0,0,0.68801788,9.5699318,18.667165)"
+     transform="matrix(0.41443356,0,0,0.41443356,9.1581151,13.991033)"
      style="fill:#ffffff">
     <path
        d="M 27.2,80 C 27.2,87.3 21.3,93.2 14,93.2 6.7,93.2 0.8,87.3 0.8,80 0.8,72.7 6.7,66.8 14,66.8 h 13.2 z m 6.6,0 c 0,-7.3 5.9,-13.2 13.2,-13.2 7.3,0 13.2,5.9 13.2,13.2 v 33 c 0,7.3 -5.9,13.2 -13.2,13.2 -7.3,0 -13.2,-5.9 -13.2,-13.2 z"
@@ -95,9 +95,9 @@
   <text
      xml:space="preserve"
      id="text841"
-     style="font-size:40px;line-height:1.25;font-family:Ethnocentric;-inkscape-font-specification:Ethnocentric;white-space:pre;shape-inside:url(#rect843);fill:#ffffff;"
-     transform="translate(-55.204276,8.1936116)"><tspan
+     style="font-size:46.6667px;line-height:1.25;font-family:Ethnocentric;-inkscape-font-specification:Ethnocentric;white-space:pre;shape-inside:url(#rect843);fill:#ffffff;"
+     transform="translate(-98.040378,-17.715177)"><tspan
        x="169.53516"
-       y="68.380996"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#ffffff">Join #recommenders on Slack</tspan></tspan></text>
+       y="74.649604"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.6667px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#ffffff">Join #recommenders on Slack</tspan></tspan></text>
 </svg>
